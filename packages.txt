@@ -1,4 +1,0 @@
-gfortran
-liblapack-dev
-libopenblas-dev
-pkg-config
