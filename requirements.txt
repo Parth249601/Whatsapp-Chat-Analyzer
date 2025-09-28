@@ -13,7 +13,7 @@ python-dotenv==1.1.1
 scikit_learn==1.7.2
 seaborn==0.13.2
 sentence_transformers==5.1.1
-spacy==3.8.7
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
 streamlit==1.49.1
 transformers==4.56.2
 umap_learn==0.5.9.post2
